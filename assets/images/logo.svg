@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- PMO Pulse Logo -->
+  <rect width="200" height="60" rx="8" fill="#FFFFFF"/>
+  <circle cx="30" cy="30" r="20" fill="#E67300"/>
+  <path d="M30 15V30L40 40" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 15V30L20 35" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- PMO Text -->
+  <text x="60" y="30" font-family="Arial, sans-serif" font-weight="700" font-size="20" fill="#E67300">PMO</text>
+  <text x="60" y="48" font-family="Arial, sans-serif" font-weight="500" font-size="16" fill="#646469">PULSE</text>
+</svg>
